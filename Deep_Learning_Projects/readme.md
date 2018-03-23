@@ -1,9 +1,18 @@
 This folder contains all the projects I have worked on, right from Convolutional Neural Networks to Sequence Models.
-
-- Hand Sign Recognizer
-
+--------------------------------------------------------------------------------------------------------------------------
+- HAND SIGN RECOGNIZER
+--------------------------------------------------------------------------------------------------------------------------
 Constructed a fully connected six-layer network to detect and classify five hand signs using TensorFlow.
 
 Used Xavier initializer for initializing weights and Adam optimizer for taking advantage of stochastic gradient descent.
 
 With 1400 epochs a testing accuracy of 71.6 was achieved.
+
+--------------------------------------------------------------------------------------------------------------------------
+- RECURRENT NEURAL NETWORK
+--------------------------------------------------------------------------------------------------------------------------
+Built a basic RNN cell, further extended the project by building an RNN by connecting the cells together
+
+Implemented an RNN with LSTM(Long Short Term Memory) cells.
+
+--------------------------------------------------------------------------------------------------------------------------
