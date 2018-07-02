@@ -1,2 +1,3 @@
 # Machine-Learning
-These are few of the projects I have worked on.
+
+These are my Machine Learning projects, does not include the Deep Learning projects.
