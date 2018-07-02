@@ -5,3 +5,5 @@ Predicting Boston Housing Prices
 •	Analyzed and rectified effects of underfitting and overfitting by leveraging grid search technique and K-fold cross-validation technique.
 
 •	Achieved promising results of more than 85% accuracy which could be further extended to various housing locations.
+
+Please open boston_housing.ipynb file to see the running project.
