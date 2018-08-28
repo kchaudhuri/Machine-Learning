@@ -1,3 +1,17 @@
 # Machine-Learning
 
-These are my Machine Learning projects, does not include the Deep Learning projects.
+These are some of my Machine Learning projects, does not include the Deep Learning projects.
+
+Boston_Housing_Prediction
+
+Customer_Segments_Exploration
+
+Finding_Donors_for_Charity
+
+Machine_Learning_Practice
+
+Modern_Boston_Housing_Prediction
+
+Romantic_Partners	
+
+Titanic_Survival_Prediction
