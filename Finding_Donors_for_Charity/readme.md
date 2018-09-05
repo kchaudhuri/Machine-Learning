@@ -1,5 +1,11 @@
-This is a project of Udacity's Machine Learning Nanodegree which gave me a deep understanding of the supervised learning techniques.
+Finding Donors for CharityML
 
-In this project, I employ several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census. I then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. The goal of this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000. This sort of task can arise in a non-profit setting, where organizations survive on donations. Understanding an individual's income can help a non-profit better understand how large a donation to request, or whether or not they should reach out, to begin with. While it can be difficult to determine an individual's general income bracket directly from public sources, we can infer this value from other publically available features.
+This project was a part of the Udacity's Machine Learning Nanodegree
+
+Employed supervised learning algorithms to estimate income of an individual for predicting possible donors for a charity, using census data with scikit-learn library
+
+Applied and compared Support Vector Classifiers, Random Forest Classifier and Naïve Bayes Classifiers to get the best results with a final accuracy of 83.78% and F-score of 68.35
+
+Found important features for the classifier to work efficiently
 
 Please open finding_donors.ipynb file to see the running project.
